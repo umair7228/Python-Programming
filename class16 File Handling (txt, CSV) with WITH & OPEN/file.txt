@@ -1,3 +1,0 @@
-Hellow, We are learning file handling in python.
-Appending values in already existing file.
-Welcom to Python Class.

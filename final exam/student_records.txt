@@ -1,7 +1,0 @@
-Alice, 85
-Bob, 90
-Charlie, 75
-Dave, 82
-Eve, 95
-Frank, 78
-Grace, Invalid Grade
